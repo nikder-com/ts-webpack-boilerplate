@@ -26,8 +26,8 @@ ts-webpack-boilerplate
 ### 1. Клонувати репозиторій:
 
 ```bash
-git clone https://github.com/yourusername/my-node-project.git
-cd my-node-project
+git clone https://github.com/nikder-com/ts-webpack-boilerplate.git
+cd ts-webpack-boilerplate
 ```
 
 ### 2. Встановити залежності:

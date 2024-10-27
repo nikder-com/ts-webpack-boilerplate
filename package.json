@@ -1,6 +1,6 @@
 {
 	"name": "ts-webpack-boilerplate",
-	"displayName": "TS-Webpack-Boilerplate",
+	"displayName": "TS Webpack Boilerplate",
 	"version": "1.0.0",
 	"private": false,
 	"main": "./dist/main.js",
