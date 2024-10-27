@@ -1,4 +1,4 @@
-# My Node.js Boilerplate with TypeScript and Webpack
+# Node.js Boilerplate with TypeScript and Webpack
 
 ## Опис
 
@@ -56,6 +56,14 @@ npm run build:prod
 
 ```bash
 npm run start
+```
+
+## Форматування коду
+
+Запуск Prettier для автоматичного форматування всіх файлів:
+
+```bash
+npm run format
 ```
 
 ## Додатково
