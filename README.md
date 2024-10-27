@@ -12,6 +12,8 @@ ts-webpack-boilerplate
 ├── src
 │   └── index.ts
 ├── .gitignore
+├── .prettierignore
+├── .prettierrc
 ├── package-lock.json
 ├── package.json
 ├── README.md
