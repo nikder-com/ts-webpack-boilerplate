@@ -11,7 +11,8 @@
 		"build:dev": "webpack --mode development",
 		"webpack:watch": "webpack --mode development --watch",
 		"format": "prettier --write .",
-		"test": "echo \"Error: no test specified\" && exit 1"
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"prepare": "husky"
 	},
 	"keywords": [
 		"Node.js",
@@ -29,13 +30,14 @@
 	"license": "MIT",
 	"description": "Node.js Boilerplate with TypeScript and Webpack setup",
 	"devDependencies": {
-		"concurrently": "^9.0.1",
-		"nodemon": "^3.1.7",
-		"prettier": "^3.3.3",
-		"ts-loader": "^9.5.1",
-		"typescript": "^5.6.3",
-		"webpack": "^5.95.0",
-		"webpack-cli": "^5.1.4",
+		"concurrently": "^9.1.2",
+		"husky": "^9.1.7",
+		"nodemon": "^3.1.9",
+		"prettier": "^3.4.2",
+		"ts-loader": "^9.5.2",
+		"typescript": "^5.7.3",
+		"webpack": "^5.97.1",
+		"webpack-cli": "^6.0.1",
 		"webpack-node-externals": "^3.0.0"
 	}
 }
